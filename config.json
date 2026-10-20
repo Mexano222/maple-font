@@ -74,7 +74,7 @@
     "version": "3.5.1",
     "mono": false,
     "propo": false,
-    "use_font_patcher": false,
+    "use_font_patcher": true,
     "glyphs": [
       "--complete"
     ],
